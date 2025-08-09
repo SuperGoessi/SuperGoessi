@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 This is Jing Qin
 
-<!--
-**SuperGoessi/SuperGoessi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 **PhD Candidate** in Urban Mobility Modeling @ Eindhoven University of Technology 🇳🇱 Netherlands 
+🎓 **Master of Science** in GeoEngine @ Universität Stuttgart 🇩🇪 Germany 
+🎓 **Bachelor of Science** in Geographic Information System @ Wuhan University 🇨🇳 China 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📍 Based in the Netherlands | 🌏 Passionate about mobility, accessibility, Data, and Algorithm
+
+- 🔭 **Currently working on:**  
+  Space-Time Prism (STP) modeling in multimodal multi-activity supernetworks.
+
+- 🌱 **Currently learning:**  
+  AI & Machine Learning for mobility applications (C++, Python), Dutch (A2).  
+
+- 👯 **Looking to collaborate on:**  
+  Research projects in transportation modeling, network optimization, and applied AI in urban planning.
+
+- 💬 **Ask me about:**  
+  Space-time prism, supernetwork modeling, accessibility measures, and genetic/tabu search algorithms.
+
+- 📫 **How to reach me:**  
+  [Email](Jing.QIN94@outlook.com) | [LinkedIn](https://www.linkedin.com/in/jing-qin-tech/) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=BiiKYPkAAAAJ)
+
+
