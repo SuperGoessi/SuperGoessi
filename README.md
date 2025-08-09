@@ -22,6 +22,6 @@
   Space-time prism, supernetwork modeling, accessibility measures, and genetic/tabu search algorithms.
 
 - 📫 **How to reach me:**  
-  [Email](Jing.QIN94@outlook.com) | [LinkedIn](https://www.linkedin.com/in/jing-qin-tech/) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=BiiKYPkAAAAJ)
+  [Email](mailto:Jing.QIN94@outlook.com) | [LinkedIn](https://www.linkedin.com/in/jing-qin-tech/) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=BiiKYPkAAAAJ)
 
 
