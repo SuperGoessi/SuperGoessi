@@ -2,7 +2,9 @@
 
 
 🎓 **PhD Candidate** in Urban Mobility Modeling @ Eindhoven University of Technology 🇳🇱 Netherlands 
+
 🎓 **Master of Science** in GeoEngine @ Universität Stuttgart 🇩🇪 Germany 
+
 🎓 **Bachelor of Science** in Geographic Information System @ Wuhan University 🇨🇳 China 
 
 📍 Based in the Netherlands | 🌏 Passionate about mobility, accessibility, Data, and Algorithm
