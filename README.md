@@ -1,11 +1,11 @@
 ## Hi there 👋 This is Jing Qin
 
 
-🎓 **PhD Candidate** in Urban Mobility Modeling @ Eindhoven University of Technology 🇳🇱 Netherlands 
+🎓 **PhD Candidate** in Urban Mobility Modeling @ Eindhoven University of Technology 🇳🇱
 
-🎓 **Master of Science** in GeoEngine @ Universität Stuttgart 🇩🇪 Germany 
+🎓 **Master of Science** in GeoEngine @ Universität Stuttgart :de:
 
-🎓 **Bachelor of Science** in Geographic Information System @ Wuhan University 🇨🇳 China 
+🎓 **Bachelor of Science** in Geographic Information System @ Wuhan University :cn: 
 
 📍 Based in the Netherlands | 🌏 Passionate about mobility, accessibility, Data, and Algorithm
 
